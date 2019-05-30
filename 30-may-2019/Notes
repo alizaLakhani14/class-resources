@@ -1,0 +1,8 @@
+//pseudo codfe(Code in your own words.)
+   Problem Statement: Show user input inside heading.
+
+   1.Get input element on which user typed something.
+   2.Get value of input.
+   3.Get heading element.
+   4.Change heading content.
+   
