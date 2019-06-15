@@ -1,0 +1,24 @@
+.dark{
+    background-color: black;
+}
+
+.dark h1{
+    color: red;
+}
+
+.dark button{
+    background-color: aqua;
+}
+
+
+.light{
+    background-color: wheat;
+}
+
+.light h1{
+    color: black;
+}
+
+.light button{
+    background-color: blue;
+}
