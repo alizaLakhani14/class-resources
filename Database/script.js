@@ -9,7 +9,7 @@ let contacts = [
     {
         name: "narjis",
         isRead: False,
-        no\.OfUnreadMessages: 2,
+        noOfUnread: 2,
         profilePicture: "#",
         firstLine: "coming",
         number:033-7777777
