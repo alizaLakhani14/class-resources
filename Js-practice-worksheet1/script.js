@@ -157,3 +157,37 @@ function findAge(date1, date2) {
 // console.log(studnets[i].name`'s age is` ${age} `years`);
 // Curly brackets k shuru mai $ lagane se wo variable ban jata hai
 // yeh trick sirf back ticks mai chalti hai
+
+// Last Question
+//  let students = [
+//      {
+//          name:`Talat`,
+//          age:23
+//      },
+//      {
+//          name:`Altaf`,
+//          age:25
+//      },
+//      {
+//          name: `Somia`,
+//          age:45
+//      },
+//      {
+//          name:`Sufya`,
+//          age:46
+//      },
+//      {
+//          name:`Safina`,
+//          age:26
+//      }
+//  ];
+
+// let oldestStudent = students[0];
+// for(i=1; i < students.length; i++){
+//     if(students[i].age > oldestStudent.age){
+//         oldestStudent = students[i];
+//     }
+// }
+
+// console.log(oldestStudent.name);
+
