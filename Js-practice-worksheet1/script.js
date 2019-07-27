@@ -152,3 +152,8 @@ function findAge(date1, date2) {
     date2 = new Date(students[i].dob) ;
   }
 }
+/ Question 7
+// Yeh sirf back ticks k liye hain
+// console.log(studnets[i].name`'s age is` ${age} `years`);
+// Curly brackets k shuru mai $ lagane se wo variable ban jata hai
+// yeh trick sirf back ticks mai chalti hai
